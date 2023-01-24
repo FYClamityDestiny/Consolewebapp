@@ -13,3 +13,6 @@ console.log(division);
 console.log(multiplication);
 console.log(addition);
 console.log(subtraction)
+console.log("Number 1:" + numerator_1);
+console.log("Number 2:" + numerator_2);
+console.log("We are doing mathemathical operations in this order:DIVISION, MULTIPLICATION, ADDITION and SUBTRACTION!");
